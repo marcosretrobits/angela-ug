@@ -21,5 +21,6 @@ Inspired by the [Applesoft Basic port](https://www.applefritter.com/content/ange
 Two versions are available:
 * angela_ug_en.bas: simple console I/O, compatible with a greater number of target machines;
 * angela_ug_V2.bas: enhanced version with better UI and the possibility to display the simulated P101 registers.
+
 From the [project page on itch.io](https://retrobits.itch.io/angela-ug), you can download the versions for all supported computers: Sinclair ZX Spectrum, Amstrad CPC, MSX, Atari 8 bit, Commodore 64, TRS-80 CoCo 3, Olivetti Prodest PC 128, Thomson MO6.
 
