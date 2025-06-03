@@ -17,5 +17,9 @@ The rules are simple, but winning isn't easy at all:
 * The winner is the player that exactly reaches the target, or forces the opponent to exceed it
 
 ## The ugBASIC port
-Inspired by the [Applesoft Basic port](https://www.applefritter.com/content/angela-game-porting-olivetti-programma-101-applesoft-basic), I ported the [QuickBasic version of Angela Game by Claudio Larini](http://claudiolarini.altervista.org/emul2.htm) to [ugBASIC](https://ugbasic.iwashere.eu/), thus making it available for many 8-bit homecomputers from the '80s. 
+Inspired by the [Applesoft Basic port](https://www.applefritter.com/content/angela-game-porting-olivetti-programma-101-applesoft-basic), I ported the [QuickBasic version of Angela Game by Claudio Larini](http://claudiolarini.altervista.org/emul2.htm) to [ugBASIC](https://ugbasic.iwashere.eu/), thus making it available for many 8-bit homecomputers from the '80s.
+Two versions are available:
+* angela_ug_en.bas: simple console I/O, compatible with a greater number of target machines;
+* angela_ug_V2.bas: enhanced version with better UI and the possibility to display the simulated P101 registers.
 From the [project page on itch.io](https://retrobits.itch.io/angela-ug), you can download the versions for all supported computers: Sinclair ZX Spectrum, Amstrad CPC, MSX, Atari 8 bit, Commodore 64, TRS-80 CoCo 3, Olivetti Prodest PC 128, Thomson MO6.
+
